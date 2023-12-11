@@ -1,0 +1,784 @@
+[
+  {
+    "id": 1,
+    "name": "Introduction to React Native",
+    "instructor": "John Doe",
+    "description": "Learn the basics of React Native development and build your first mobile app.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image1.here",
+    "duration": "8 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "likes": 233,
+"prerequisites": [
+      "Basic JavaScript knowledge",
+      "Familiarity with React"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to React Native",
+        "content": "Overview of React Native, setting up your development environment."
+      },
+      {
+        "week": 2,
+        "topic": "Building Your First App",
+        "content": "Creating a simple mobile app using React Native components."
+      }
+    ],
+    "students": [
+      {
+        "id": 101,
+        "name": "Alice Johnson",
+        "email": "alice@example.com"
+      },
+      {
+        "id": 102,
+        "name": "Bob Smith",
+        "email": "bob@example.com"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Advanced Machine Learning",
+    "instructor": "Dr. Jane Watson",
+    "description": "Dive deep into advanced machine learning techniques and applications.",
+    "enrollmentStatus": "Closed",
+    "thumbnail": "your.image2.here",
+    "duration": "10 weeks",
+    "schedule": "Mondays and Fridays, 5:00 PM - 7:00 PM",
+    "location": "University Campus",
+    "likes": 233,
+"prerequisites": [
+      "Basic understanding of machine learning concepts",
+      "Proficiency in Python"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Advanced ML",
+        "content": "Overview of advanced machine learning concepts and applications."
+      },
+      {
+        "week": 2,
+        "topic": "Deep Neural Networks",
+        "content": "Understanding and implementing deep neural networks."
+      }
+    ],
+    "students": [
+      {
+        "id": 201,
+        "name": "Charlie Davis",
+        "email": "charlie@example.com"
+      },
+      {
+        "id": 202,
+        "name": "Diana Miller",
+        "email": "diana@example.com"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Python for Data Science",
+    "instructor": "Dr. Samantha Brown",
+    "description": "Master Python for data analysis and machine learning applications.",
+    "enrollmentStatus": "In Progress",
+    "thumbnail": "your.image3.here",
+    "duration": "12 weeks",
+    "schedule": "Wednesdays and Saturdays, 3:00 PM - 5:00 PM",
+    "location": "Online",
+    "likes": 233,
+"prerequisites": [
+      "Basic Python knowledge"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Python",
+        "content": "Getting started with Python programming language."
+      },
+      {
+        "week": 2,
+        "topic": "Data Analysis with Pandas",
+        "content": "Exploring and manipulating data using the Pandas library."
+      }
+    ],
+    "students": [
+      {
+        "id": 301,
+        "name": "Eva Rodriguez",
+        "email": "eva@example.com"
+      },
+      {
+        "id": 302,
+        "name": "Frank Turner",
+        "email": "frank@example.com"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Digital Marketing Fundamentals",
+    "instructor": "Sarah Mitchell",
+    "description": "Learn the essentials of digital marketing and develop effective online strategies.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image4.here",
+    "duration": "8 weeks",
+    "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "likes": 233,
+"prerequisites": [
+      "None"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Digital Marketing",
+        "content": "Understanding the landscape and key concepts of digital marketing."
+      },
+      {
+        "week": 2,
+        "topic": "Search Engine Optimization (SEO)",
+        "content": "Optimizing websites for better search engine rankings."
+      }
+    ],
+    "students": [
+      {
+        "id": 401,
+        "name": "Grace Carter",
+        "email": "grace@example.com"
+      },
+      {
+        "id": 402,
+        "name": "Henry White",
+        "email": "henry@example.com"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Data Structures and Algorithms",
+    "instructor": "Dr. Michael Johnson",
+    "description": "Gain a deep understanding of fundamental data structures and algorithms.",
+    "enrollmentStatus": "Closed",
+    "thumbnail": "your.image5.here",
+    "duration": "10 weeks",
+    "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+    "location": "University Campus",
+    "likes": 233,
+"prerequisites": [
+      "Programming experience in any language"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Arrays and Linked Lists",
+        "content": "Understanding and implementing basic data structures."
+      },
+      {
+        "week": 2,
+        "topic": "Sorting Algorithms",
+        "content": "Exploring various sorting algorithms and their efficiency."
+      }
+    ],
+    "students": [
+      {
+        "id": 501,
+        "name": "Ivy Johnson",
+        "email": "ivy@example.com"
+      },
+      {
+        "id": 502,
+        "name": "Jack Williams",
+        "email": "jack@example.com"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Artificial Intelligence Ethics",
+    "instructor": "Dr. Lisa Thompson",
+    "description": "Examine ethical considerations in the development and use of AI.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image6.here",
+    "duration": "8 weeks",
+    "schedule": "Thursdays, 4:00 PM - 6:00 PM",
+    "location": "Online",
+    "likes": 233,
+"prerequisites": [
+      "Basic understanding of artificial intelligence"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to AI Ethics",
+        "content": "Exploring the ethical implications of artificial intelligence."
+      },
+      {
+        "week": 2,
+        "topic": "Bias in AI",
+        "content": "Understanding and addressing bias in AI algorithms."
+      }
+    ],
+    "students": [
+      {
+        "id": 601,
+        "name": "Katherine Adams",
+        "email": "katherine@example.com"
+      },
+      {
+        "id": 602,
+        "name": "Leo Harris",
+        "email": "leo@example.com"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Cybersecurity Fundamentals",
+    "instructor": "Alex Turner",
+    "description": "Learn the basics of cybersecurity and protect digital assets.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image7.here",
+    "duration": "6 weeks",
+    "schedule": "Tuesdays and Fridays, 5:00 PM - 7:00 PM",
+    "location": "Online",
+    "likes": 233,
+"prerequisites": [
+      "Basic computer knowledge"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Cybersecurity",
+        "content": "Understanding the fundamentals of cybersecurity."
+      },
+      {
+        "week": 2,
+        "topic": "Network Security",
+        "content": "Exploring techniques to secure computer networks."
+      }
+    ],
+    "students": [
+      {
+        "id": 701,
+        "name": "Mia Robinson",
+        "email": "mia@example.com"
+      },
+      {
+        "id": 702,
+        "name": "Noah Davis",
+        "email": "noah@example.com"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Mobile App Design",
+    "instructor": "Sophia Miller",
+    "description": "Design intuitive and user-friendly mobile applications.",
+    "enrollmentStatus": "In Progress",
+    "thumbnail": "your.image8.here",
+    "duration": "8 weeks",
+    "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "likes": 233,
+"prerequisites": [
+      "Basic design knowledge"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "UI/UX Basics",
+        "content": "Introduction to user interface and user experience design."
+      },
+      {
+        "week": 2,
+        "topic": "Wireframing and Prototyping",
+        "content": "Creating wireframes and interactive prototypes for mobile apps."
+      }
+    ],
+    "students": [
+      {
+        "id": 801,
+        "name": "Oliver Wilson",
+        "email": "oliver@example.com"
+      },
+      {
+        "id": 802,
+        "name": "Penelope Lee",
+        "email": "penelope@example.com"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Blockchain Fundamentals",
+    "instructor": "David Garcia",
+    "description": "Explore the principles and applications of blockchain technology.",
+    "enrollmentStatus": "Closed",
+    "thumbnail": "your.image9.here",
+    "duration": "10 weeks",
+    "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+    "location": "University Campus",
+    "likes": 233,
+"prerequisites": [
+      "Basic understanding of cryptography"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Blockchain",
+        "content": "Understanding the basics of blockchain technology and its components."
+      },
+      {
+        "week": 2,
+        "topic": "Smart Contracts",
+        "content": "Creating and deploying smart contracts on blockchain platforms."
+      }
+    ],
+    "students": [
+      {
+        "id": 901,
+        "name": "Quinn Stewart",
+        "email": "quinn@example.com"
+      },
+      {
+        "id": 902,
+        "name": "Rachel Adams",
+        "email": "rachel@example.com"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Data Visualization with D3.js",
+    "instructor": "Daniel White",
+    "description": "Create interactive and compelling data visualizations using D3.js.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image10.here",
+    "duration": "6 weeks",
+    "schedule": "Fridays, 4:00 PM - 6:00 PM",
+    "location": "Online",
+    "likes": 233,
+"prerequisites": [
+      "Basic knowledge of HTML, CSS, and JavaScript"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Data Visualization",
+        "content": "Overview of data visualization principles and tools."
+      },
+      {
+        "week": 2,
+        "topic": "Getting Started with D3.js",
+        "content": "Setting up D3.js and creating your first visualizations."
+      }
+    ],
+    "students": [
+      {
+        "id": 1001,
+        "name": "Samuel Turner",
+        "email": "samuel@example.com"
+      },
+      {
+        "id": 1002,
+        "name": "Taylor Lewis",
+        "email": "taylor@example.com"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "UX/UI Design Principles",
+    "instructor": "Ava Robinson",
+    "description": "Master the principles of user experience and user interface design.",
+    "enrollmentStatus": "In Progress",
+    "thumbnail": "your.image11.here",
+    "duration": "8 weeks",
+    "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "likes": 233,
+"prerequisites": [
+      "None"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Understanding User Experience",
+        "content": "Exploring the fundamentals of user experience design."
+      },
+      {
+        "week": 2,
+        "topic": "Visual Design Principles",
+        "content": "Applying visual design principles to create compelling user interfaces."
+      }
+    ],
+    "students": [
+      {
+        "id": 1101,
+        "name": "Ulysses Carter",
+        "email": "ulysses@example.com"
+      },
+      {
+        "id": 1102,
+        "name": "Victoria Martin",
+        "email": "victoria@example.com"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Introduction to Cloud Computing",
+    "instructor": "Nathan Evans",
+    "description": "Understand the basics of cloud computing and its applications.",
+    "enrollmentStatus": "Closed",
+    "thumbnail": "your.image12.here",
+    "duration": "10 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "University Campus",
+    "likes": 233,
+"prerequisites": [
+      "Basic knowledge of networking"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Overview of Cloud Computing",
+        "content": "Understanding the concepts and benefits of cloud computing."
+      },
+      {
+        "week": 2,
+        "topic": "Cloud Service Models",
+        "content": "Exploring different cloud service models (IaaS, PaaS, SaaS)."
+      }
+    ],
+    "students": [
+      {
+        "id": 1201,
+        "name": "Walter Thompson",
+        "email": "walter@example.com"
+      },
+      {
+        "id": 1202,
+        "name": "Ximena Rodriguez",
+        "email": "ximena@example.com"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Frontend Web Development",
+    "instructor": "Chris Turner",
+    "description": "Master the art of creating responsive and dynamic web interfaces.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image13.here",
+    "duration": "8 weeks",
+    "schedule": "Wednesdays and Fridays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "likes": 233,
+"prerequisites": [
+      "HTML, CSS, and JavaScript basics"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "HTML and CSS Fundamentals",
+        "content": "Building the foundation with HTML and CSS basics."
+      },
+      {
+        "week": 2,
+        "topic": "JavaScript for Web Development",
+        "content": "Introduction to JavaScript and its role in frontend development."
+      }
+    ],
+    "students": [
+      {
+        "id": 1301,
+        "name": "Yasmine Hill",
+        "email": "yasmine@example.com"
+      },
+      {
+        "id": 1302,
+        "name": "Zachary Lewis",
+        "email": "zachary@example.com"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "iOS App Development with Swift",
+    "instructor": "Emma Scott",
+    "description": "Learn to develop iOS applications using the Swift programming language.",
+    "enrollmentStatus": "In Progress",
+    "thumbnail": "your.image14.here",
+    "duration": "10 weeks",
+    "schedule": "Mondays and Thursdays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "likes": 233,
+"prerequisites": [
+      "Basic programming knowledge"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Swift",
+        "content": "Getting started with the Swift programming language."
+      },
+      {
+        "week": 2,
+        "topic": "Building a Basic iOS App",
+        "content": "Creating a simple iOS app using Swift and Xcode."
+      }
+    ],
+    "students": [
+      {
+        "id": 1401,
+        "name": "Aaron Turner",
+        "email": "aaron@example.com"
+      },
+      {
+        "id": 1402,
+        "name": "Bella White",
+        "email": "bella@example.com"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Introduction to Robotics",
+    "instructor": "Dr. Robert Turner",
+    "description": "Explore the fundamentals of robotics and its applications.",
+    "enrollmentStatus": "Closed",
+    "thumbnail": "your.image15.here",
+    "duration": "12 weeks",
+    "schedule": "Tuesdays and Saturdays, 4:00 PM - 6:00 PM",
+    "location": "University Campus",
+    "likes": 233,
+"prerequisites": [
+      "Basic understanding of physics and programming"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Robotics",
+        "content": "Overview of robotics and its interdisciplinary nature."
+      },
+      {
+        "week": 2,
+        "topic": "Building and Programming Robots",
+        "content": "Hands-on experience in building and programming simple robots."
+      }
+    ],
+    "students": [
+      {
+        "id": 1501,
+        "name": "Caleb Rodriguez",
+        "email": "caleb@example.com"
+      },
+      {
+        "id": 1502,
+        "name": "Daisy Thompson",
+        "email": "daisy@example.com"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Full Stack Web Development",
+    "instructor": "Jake Turner",
+    "description": "Become proficient in both frontend and backend web development.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image16.here",
+    "duration": "14 weeks",
+    "schedule": "Thursdays and Sundays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "likes": 233,
+"prerequisites": [
+      "HTML, CSS, JavaScript, and basic server-side language knowledge"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Setting Up the Development Environment",
+        "content": "Configuring tools and environments for full-stack development."
+      },
+      {
+        "week": 2,
+        "topic": "Building a Simple Full Stack App",
+        "content": "Creating a complete web application with both frontend and backend components."
+      }
+    ],
+    "students": [
+      {
+        "id": 1601,
+        "name": "Elijah Scott",
+        "email": "elijah@example.com"
+      },
+      {
+        "id": 1602,
+        "name": "Fiona Adams",
+        "email": "fiona@example.com"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Game Development with Unity",
+    "instructor": "Ryan Turner",
+    "description": "Learn to create immersive games using the Unity game development engine.",
+    "enrollmentStatus": "Closed",
+    "thumbnail": "your.image17.here",
+    "duration": "12 weeks",
+    "schedule": "Wednesdays and Saturdays, 2:00 PM - 4:00 PM",
+    "location": "University Campus",
+    "likes": 233,
+"prerequisites": [
+      "Basic programming knowledge"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Unity",
+        "content": "Understanding the Unity development environment and its features."
+      },
+      {
+        "week": 2,
+        "topic": "Creating a 2D Game",
+        "content": "Building a simple 2D game using Unity and C#."
+      }
+    ],
+    "students": [
+      {
+        "id": 1701,
+        "name": "Gavin Miller",
+        "email": "gavin@example.com"
+      },
+      {
+        "id": 1702,
+        "name": "Hannah Turner",
+        "email": "hannah@example.com"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "DevOps Fundamentals",
+    "instructor": "Lisa Evans",
+    "description": "Understand the principles of DevOps and streamline the software development lifecycle.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image18.here",
+    "duration": "8 weeks",
+    "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "likes": 233,
+"prerequisites": [
+      "Basic understanding of software development"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to DevOps",
+        "content": "Exploring the goals and practices of DevOps in software development."
+      },
+      {
+        "week": 2,
+        "topic": "Continuous Integration and Deployment",
+        "content": "Implementing CI/CD pipelines for automated testing and deployment."
+      }
+    ],
+    "students": [
+      {
+        "id": 1801,
+        "name": "Ian Thompson",
+        "email": "ian@example.com"
+      },
+      {
+        "id": 1802,
+        "name": "Jasmine Turner",
+        "email": "jasmine@example.com"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Natural Language Processing",
+    "instructor": "Michael Scott",
+    "description": "Explore the techniques and applications of natural language processing (NLP).",
+    "enrollmentStatus": "In Progress",
+    "thumbnail": "your.image19.here",
+    "duration": "10 weeks",
+    "schedule": "Mondays and Fridays, 4:00 PM - 6:00 PM",
+    "location": "Online",
+    "likes": 233,
+"prerequisites": [
+      "Basic understanding of machine learning"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Natural Language Processing",
+        "content": "Overview of NLP and its applications in various domains."
+      },
+      {
+        "week": 2,
+        "topic": "Text Classification and Sentiment Analysis",
+        "content": "Applying NLP techniques for text classification and sentiment analysis."
+      }
+    ],
+    "students": [
+      {
+        "id": 1901,
+        "name": "Kyle Adams",
+        "email": "kyle@example.com"
+      },
+      {
+        "id": 1902,
+        "name": "Lily Turner",
+        "email": "lily@example.com"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Quantum Computing Fundamentals",
+    "instructor": "Sophie White",
+    "description": "Get an introduction to the principles and potential applications of quantum computing.",
+    "enrollmentStatus": "Closed",
+    "thumbnail": "your.image20.here",
+    "duration": "12 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "University Campus",
+    "likes": 233,
+"prerequisites": [
+      "Basic understanding of computer science concepts"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Quantum Computing",
+        "content": "Understanding the principles of quantum mechanics and their application in computing."
+      },
+      {
+        "week": 2,
+        "topic": "Quantum Algorithms",
+        "content": "Exploring quantum algorithms and their potential advantages over classical algorithms."
+      }
+    ],
+    "students": [
+      {
+        "id": 2001,
+        "name": "Mason Thompson",
+        "email": "mason@example.com"
+      },
+      {
+        "id": 2002,
+        "name": "Nora Evans",
+        "email": "nora@example.com"
+      }
+    ]
+  }
+]
