@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1000,
+      "name": "Ryo Styles",
+      "courses": [
+        {
+          "id": 1,
+          "dueDate": "2023-11-30",
+          "progress": 30,
+          "completed": false
+        },
+        {
+          "id": 2,
+          "dueDate": "2023-12-30",
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "id": 4,
+          "dueDate": "2023-12-30",
+          "progress": 60,
+          "completed": false
+        },
+        {
+          "id": 8,
+          "dueDate": "2023-12-30",
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "id": 5,
+          "dueDate": "2023-12-30",
+          "progress": 80,
+          "completed": false
+        }
+      ]
+    }
+  ]
+  
