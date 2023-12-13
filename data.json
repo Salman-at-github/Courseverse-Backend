@@ -49,7 +49,7 @@
     "duration": "10 weeks",
     "schedule": "Mondays and Fridays, 5:00 PM - 7:00 PM",
     "location": "University Campus",
-    "likes": 233,
+    "likes": 1002,
 "prerequisites": [
       "Basic understanding of machine learning concepts",
       "Proficiency in Python"
@@ -89,7 +89,7 @@
     "duration": "12 weeks",
     "schedule": "Wednesdays and Saturdays, 3:00 PM - 5:00 PM",
     "location": "Online",
-    "likes": 233,
+    "likes": 3000,
 "prerequisites": [
       "Basic Python knowledge"
     ],
@@ -128,7 +128,7 @@
     "duration": "8 weeks",
     "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
     "location": "Online",
-    "likes": 233,
+    "likes": 299,
 "prerequisites": [
       "None"
     ],
@@ -167,7 +167,7 @@
     "duration": "10 weeks",
     "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
     "location": "University Campus",
-    "likes": 233,
+    "likes": 434,
 "prerequisites": [
       "Programming experience in any language"
     ],
@@ -206,7 +206,7 @@
     "duration": "8 weeks",
     "schedule": "Thursdays, 4:00 PM - 6:00 PM",
     "location": "Online",
-    "likes": 233,
+    "likes": 7896,
 "prerequisites": [
       "Basic understanding of artificial intelligence"
     ],
@@ -245,7 +245,7 @@
     "duration": "6 weeks",
     "schedule": "Tuesdays and Fridays, 5:00 PM - 7:00 PM",
     "location": "Online",
-    "likes": 233,
+    "likes": 354,
 "prerequisites": [
       "Basic computer knowledge"
     ],
@@ -284,7 +284,7 @@
     "duration": "8 weeks",
     "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
     "location": "Online",
-    "likes": 233,
+    "likes": 2543,
 "prerequisites": [
       "Basic design knowledge"
     ],
@@ -323,7 +323,7 @@
     "duration": "10 weeks",
     "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
     "location": "University Campus",
-    "likes": 233,
+    "likes": 856,
 "prerequisites": [
       "Basic understanding of cryptography"
     ],
@@ -362,7 +362,7 @@
     "duration": "6 weeks",
     "schedule": "Fridays, 4:00 PM - 6:00 PM",
     "location": "Online",
-    "likes": 233,
+    "likes": 7865,
 "prerequisites": [
       "Basic knowledge of HTML, CSS, and JavaScript"
     ],
@@ -401,7 +401,7 @@
     "duration": "8 weeks",
     "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
     "location": "Online",
-    "likes": 233,
+    "likes": 1432,
 "prerequisites": [
       "None"
     ],
@@ -440,7 +440,7 @@
     "duration": "10 weeks",
     "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
     "location": "University Campus",
-    "likes": 233,
+    "likes": 4352,
 "prerequisites": [
       "Basic knowledge of networking"
     ],
@@ -479,7 +479,7 @@
     "duration": "8 weeks",
     "schedule": "Wednesdays and Fridays, 6:00 PM - 8:00 PM",
     "location": "Online",
-    "likes": 233,
+    "likes": 234,
 "prerequisites": [
       "HTML, CSS, and JavaScript basics"
     ],
@@ -518,7 +518,7 @@
     "duration": "10 weeks",
     "schedule": "Mondays and Thursdays, 7:00 PM - 9:00 PM",
     "location": "Online",
-    "likes": 233,
+    "likes": 1113,
 "prerequisites": [
       "Basic programming knowledge"
     ],
@@ -557,7 +557,7 @@
     "duration": "12 weeks",
     "schedule": "Tuesdays and Saturdays, 4:00 PM - 6:00 PM",
     "location": "University Campus",
-    "likes": 233,
+    "likes": 564,
 "prerequisites": [
       "Basic understanding of physics and programming"
     ],
@@ -596,7 +596,7 @@
     "duration": "14 weeks",
     "schedule": "Thursdays and Sundays, 6:00 PM - 8:00 PM",
     "location": "Online",
-    "likes": 233,
+    "likes": 8567,
 "prerequisites": [
       "HTML, CSS, JavaScript, and basic server-side language knowledge"
     ],
@@ -635,7 +635,7 @@
     "duration": "12 weeks",
     "schedule": "Wednesdays and Saturdays, 2:00 PM - 4:00 PM",
     "location": "University Campus",
-    "likes": 233,
+    "likes": 23453,
 "prerequisites": [
       "Basic programming knowledge"
     ],
@@ -674,7 +674,7 @@
     "duration": "8 weeks",
     "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
     "location": "Online",
-    "likes": 233,
+    "likes": 3452,
 "prerequisites": [
       "Basic understanding of software development"
     ],
@@ -713,7 +713,7 @@
     "duration": "10 weeks",
     "schedule": "Mondays and Fridays, 4:00 PM - 6:00 PM",
     "location": "Online",
-    "likes": 233,
+    "likes": 1354,
 "prerequisites": [
       "Basic understanding of machine learning"
     ],
@@ -752,7 +752,7 @@
     "duration": "12 weeks",
     "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
     "location": "University Campus",
-    "likes": 233,
+    "likes": 6454,
 "prerequisites": [
       "Basic understanding of computer science concepts"
     ],
